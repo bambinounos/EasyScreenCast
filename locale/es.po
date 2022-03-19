@@ -222,7 +222,7 @@ msgstr "Mostrar el puntero en la videograbación"
 
 #: Options_UI.glade.h:16 Options_UI.glade-gtk4.h:17
 msgid "Active shortcut"
-msgstr ""
+msgstr "Acceso directo activado"
 
 #: Options_UI.glade.h:17 Options_UI.glade-gtk4.h:18
 #, fuzzy
@@ -250,7 +250,7 @@ msgstr "Conducto de GStreamer personalizado"
 
 #: Options_UI.glade.h:23 Options_UI.glade-gtk4.h:25
 msgid "No GSP description\n"
-msgstr ""
+msgstr "Sin descripción GSP\n"
 
 #: Options_UI.glade.h:25 Options_UI.glade-gtk4.h:24
 msgid "PagePreset"
@@ -288,7 +288,7 @@ msgstr "Wiki n.º 2"
 
 #: Options_UI.glade.h:34 Options_UI.glade-gtk4.h:27
 msgid "PageCustom"
-msgstr ""
+msgstr "Página personalizada"
 
 #: Options_UI.glade.h:35 Options_UI.glade-gtk4.h:22
 msgid "Quality"
@@ -296,7 +296,7 @@ msgstr "Calidad"
 
 #: Options_UI.glade.h:38 Options_UI.glade-gtk4.h:40
 msgid "Type of unit of measure"
-msgstr ""
+msgstr "Tipo de unidad de medida"
 
 #: Options_UI.glade.h:39 Options_UI.glade-gtk4.h:41
 msgid "Width"
@@ -320,7 +320,7 @@ msgstr "Tamaño"
 
 #: Options_UI.glade.h:44 Options_UI.glade-gtk4.h:46
 msgid "Put the webcam in the corner"
-msgstr ""
+msgstr "Poner la Webcam en la esquina"
 
 #: Options_UI.glade.h:45 Options_UI.glade-gtk4.h:47
 msgid "Right-Bottom"
@@ -395,11 +395,11 @@ msgstr "Selecciones un directorio de destino"
 
 #: Options_UI.glade.h:61 Options_UI.glade-gtk4.h:61
 msgid "File container"
-msgstr ""
+msgstr "Contenedor de archivo"
 
 #: Options_UI.glade.h:62 Options_UI.glade-gtk4.h:62
 msgid "File resolution"
-msgstr ""
+msgstr "Resolución del archivo"
 
 #: Options_UI.glade.h:63 Options_UI.glade-gtk4.h:64
 msgid "Native area resolution"
@@ -407,11 +407,11 @@ msgstr "Resolución nativa del área"
 
 #: Options_UI.glade.h:64 Options_UI.glade-gtk4.h:63
 msgid "Native"
-msgstr ""
+msgstr "Nativo"
 
 #: Options_UI.glade.h:65 Options_UI.glade-gtk4.h:66
 msgid "Preset helper"
-msgstr ""
+msgstr "Ayudante Preestablecido"
 
 #: Options_UI.glade.h:66 Options_UI.glade-gtk4.h:67
 msgid "HD [720p] [16:9]"
@@ -423,7 +423,7 @@ msgstr ""
 
 #: Options_UI.glade.h:68 Options_UI.glade-gtk4.h:69
 msgid "HD ready [768p] [16:9]"
-msgstr ""
+msgstr "HD listo [768p] [16:9]"
 
 #: Options_UI.glade.h:69 Options_UI.glade-gtk4.h:70
 msgid "SXGA [1024p] [5:4]"
@@ -451,11 +451,11 @@ msgstr ""
 
 #: Options_UI.glade.h:75 Options_UI.glade-gtk4.h:65
 msgid "Preset"
-msgstr ""
+msgstr "Preestablecido"
 
 #: Options_UI.glade.h:76 Options_UI.glade-gtk4.h:77
 msgid "keep original aspect ratio"
-msgstr "mantener la relación de aspecto original"
+msgstr "Mantener la relación de aspecto original"
 
 #: Options_UI.glade.h:77 Options_UI.glade-gtk4.h:76
 msgid "Custom"
@@ -496,7 +496,7 @@ msgstr ""
 
 #: Options_UI.glade.h:86 Options_UI.glade-gtk4.h:86
 msgid "extension"
-msgstr ""
+msgstr "Extensión"
 
 #: Options_UI.glade.h:87 Options_UI.glade-gtk4.h:87
 #, fuzzy
@@ -532,6 +532,8 @@ msgid ""
 "This extension simplifies the use of the \n"
 "screen recorder  included in gnome shell"
 msgstr ""
+"Esta extensión simplica el uso del \n"
+"screen recorder  incluido en gnome shell"
 
 #: Options_UI.glade.h:96 Options_UI.glade-gtk4.h:96
 msgid "This software is licensed under GPL v3"
@@ -566,6 +568,8 @@ msgid ""
 "This extension simplifies the use of the\n"
 "screen recorder  included in gnome shell"
 msgstr ""
+"Esta extensión simplica el uso del \n"
+"screen recorder  incluido en gnome shell"
 
 #~ msgid "To activate the change of the shortcut restart the extension"
 #~ msgstr ""
